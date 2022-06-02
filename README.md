@@ -1,6 +1,8 @@
 # imitation-of-operation-and-maintenance-of-a-coffee-machine
 
-The program should repeatedly ask what the user wants to do. If the user types "buy", "fill" or "take", then just do what the program did it action. "Buy" -  you have to choise from 3 sort of coffee with different ingredient. "Fill" - you can add ingredients in coffee-machine. "Take" - we take a money from it. However, if the user wants to switch off the coffee machine, he should type "exit". Then the program should terminate. Also, when the user types "remaining", the program should output all the resources that the coffee machine has. This means that you shouldn't show the remaining stock levels at the beginning/end of the program.
+This program has a switch-case block, a try-catch block, "if" conditions, and a while loop.
+
+The program should repeatedly ask what the user wants to do. If the user types "buy", "fill" or "take", then just do what the program did it action. "Buy" -  you have to choose from 3 sort of coffee with different ingredient. "Fill" - you can add ingredients in coffee-machine. "Take" - we take a money from it. However, if the user wants to switch off the coffee machine, he should type "exit". Then the program should terminate. Also, when the user types "remaining", the program should output all the resources that the coffee machine has. This means that you shouldn't show the remaining stock levels at the beginning/end of the program.
 
 Also, do not forget that you can be out of resources for making coffee. If the coffee machine doesn’t have enough resources to make coffee, the program should output a message that says it can't make a cup of coffee and state what is missing.
 
